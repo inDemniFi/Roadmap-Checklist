@@ -49,3 +49,53 @@ This is our operational checklist for inDemniFi to illustrate our future plans a
 
 - [ ] Examine the perishability factor of protocols: Research and evaluate protocols that have a limited lifespan or require regular upgrades and maintenance. Analyze the challenges associated with protocol upgrades, backward compatibility, community consensus, and developer adoption. Consider the risks and benefits of protocols that prioritize innovation and evolution.
 
+# State of Cryptocurrency Underwriting (SCU) Checklist
+
+## 1st page: The number of blockchains and smart contracts out there.
+- [ ] Research and compile a comprehensive list of existing blockchains and smart contracts.
+- [ ] Analyze the characteristics, features, and use cases of each blockchain and smart contract platform.
+- [ ] Gather data on the number of active projects and the growth trends in the blockchain and smart contract ecosystem.
+- [ ] Update the report with the latest statistics and insights on the number of blockchains and smart contracts.
+
+## 2nd page: Blockchain Construction (List)
+- [ ] Compile a detailed list of blockchain construction methodologies, including consensus algorithms, governance models, and network structures.
+- [ ] Analyze the advantages and disadvantages of different blockchain construction approaches.
+- [ ] Include case studies and examples of prominent blockchain projects built using various construction methods.
+- [ ] Provide insights into emerging trends and innovations in blockchain construction.
+
+## Construction of Compilers: Solidity compiler updates and vulnerabilities
+- [ ] Research the latest updates and versions of the Solidity compiler.
+- [ ] Analyze the changes, enhancements, and bug fixes introduced in each compiler version.
+- [ ] Identify and document known vulnerabilities or security issues in Solidity compilers.
+- [ ] Provide recommendations for ensuring secure Solidity compiler usage and mitigating potential risks.
+
+## Construction of Programming Languages: Turing complete, recursion, etc.
+- [ ] Study different programming languages used in blockchain development, focusing on their Turing completeness and recursion capabilities.
+- [ ] Evaluate the suitability of each programming language for smart contract development, considering factors such as expressiveness and safety.
+- [ ] Research any vulnerabilities or limitations associated with specific programming languages in the context of blockchain and smart contract development.
+- [ ] Provide insights and recommendations for selecting the appropriate programming language based on project requirements.
+
+## Exploits by the Numbers: Total Value exploited, on what blockchains, etc.
+- [ ] Gather data on past exploits in the cryptocurrency ecosystem, including information on the total value exploited.
+- [ ] Identify the affected blockchains and smart contracts associated with each exploit.
+- [ ] Analyze the root causes and common patterns observed in cryptocurrency exploits.
+- [ ] Provide statistics and insights on the distribution of exploits across different blockchains and their impact on the industry.
+
+## Exploit Characteristics: What layers are the vulnerabilities in, the Protocol, Asset, Aggregate, Application, or Settlement Layer
+- [ ] Categorize and analyze vulnerabilities and exploits based on the layers of the cryptocurrency ecosystem (Protocol, Asset, Aggregate, Application, Settlement).
+- [ ] Identify the most common types of vulnerabilities found in each layer.
+- [ ] Provide insights on the potential consequences and risks associated with vulnerabilities in different layers.
+- [ ] Offer recommendations for mitigating vulnerabilities and enhancing security in each layer.
+
+## Audit Companies: Number of Audits, audits with exploits, etc.
+- [ ] Research and compile a list of audit companies specializing in blockchain and smart contract security.
+- [ ] Gather data on the number of audits conducted by each company and their success rates.
+- [ ] Identify audits that have uncovered vulnerabilities or exploits and analyze the underlying reasons.
+- [ ] Evaluate the effectiveness and reliability of different audit companies based on their track records.
+
+## Bug Bounties and Exploit Recovery: Info on how much was returned or recovered after being exploited, and also how many protocols were exploited after having a bug bounty.
+- [ ] Collect data on bug bounties offered by cryptocurrency projects and their outcomes.
+- [ ] Analyze the amount of funds returned or recovered as a result of bug bounty programs.
+- [ ] Investigate instances where protocols were exploited despite having bug bounty programs in place.
+- [ ] Provide insights on the effectiveness of bug bounty programs in preventing and mitigating exploits.
+
